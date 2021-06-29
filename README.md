@@ -6,8 +6,7 @@ This example shows you how a designer would get started with MathWorks model ver
 
 
 ## Special Instructions
-Created with R2021a
-This example is a MATLAB Project. You can launch the example from the file named 'Designer_Work_Flow.prj'.
+Created with R2021a. This example is a MATLAB Project. You can launch the example from the file named 'Designer_Work_Flow.prj'.
 
 ## Relevant Products
 Simulink Requirements
